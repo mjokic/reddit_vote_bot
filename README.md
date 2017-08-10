@@ -1,2 +1,2 @@
 # reddit_vote_bot
-Reddit vote bot written in python
+Old project, probably need a few tweaks to get it back in shape.
